@@ -67,6 +67,12 @@ O **Cérebro de Vetores** é mais do que um projeto de **Processamento de Lingua
 
 Em sua essência, o Cérebro de Vetores simula a forma como o cérebro humano organiza e associa informações, utilizando embeddings contextuais para construir clusters semânticos que representam conceitos e ideias. Esta abordagem não só captura relações sutis entre palavras e frases, mas também possibilita uma compreensão mais profunda das interconexões no espaço semântico.
 
+
+
+https://github.com/user-attachments/assets/315d1d4d-f80e-4471-b046-9911307fef36
+
+
+
 ![heatmap_clusters_20241228_091349_4eeda446](https://github.com/user-attachments/assets/4c3e1568-8722-4a02-bbe0-3249de178240)
 
 ![heatmap_clusters_20241228_091937_546bf51f](https://github.com/user-attachments/assets/f9a3069c-a64c-4fe7-b4cd-bac725167a5b)
