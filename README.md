@@ -26,7 +26,6 @@
     <img src="https://img.shields.io/badge/modularidade-Alta-orange" alt="Modularidade">
 <br>
     <img src="https://img.shields.io/badge/versão_do_python-3.8+-blue" alt="Versão Python">
-    <img src="https://img.shields.io/badge/dependências-numpy%2C_pandas%2C_scikit-learn%2C_transformers%2C_faiss-lightblue" alt="Dependências">
     <img src="https://img.shields.io/badge/compatibilidade-Linux%2C_macOS-green" alt="Compatibilidade">
       <img src="https://img.shields.io/badge/ciclo_de_vida-Contínuo-violet" alt="Ciclo de Vida">
   <img src="https://img.shields.io/badge/desafio-Complexo-red" alt="Desafio">
